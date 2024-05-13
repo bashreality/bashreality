@@ -4,4 +4,4 @@ title = "Basics"
 weight = 1
 +++
 
-This is a new chapter.
+This is a new chapter. A to jest test edycji
