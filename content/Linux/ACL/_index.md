@@ -1,7 +1,7 @@
 
 +++
 author = "Albert Milewski"
-title = "Understanding ACLs in Linux"
+title = "ACL"
 date = "2024-05-16"
 description = "A comprehensive guide to Access Control Lists (ACLs) in Linux, their usage, options, examples, and best practices."
 tags = [
