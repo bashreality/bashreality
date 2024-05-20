@@ -17,11 +17,8 @@ series = ["Linux Guides"]
 aliases = ["linux-acls"]
 +++
 
-Understanding ACLs in Linux
-
 Access Control Lists (ACLs) are a powerful feature in Linux that allow for more fine-grained permissions management compared to traditional Unix file permissions. This guide will explore what ACLs are, their use cases, command options, practical examples, tips, and common pitfalls to avoid. Click "Read More" to dive into the details of using ACLs effectively in your Linux environment.
 
-<!--more-->
 
 # What are ACLs?
 
