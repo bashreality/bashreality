@@ -2,10 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories :: Bash Reality</title>
-    <link>http://localhost:43411/categories/index.html</link>
+    <link>http://localhost:1313/categories/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:43411/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Category :: Linux</title>
+      <link>http://localhost:1313/categories/linux/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/linux/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Category :: System Administration</title>
+      <link>http://localhost:1313/categories/system-administration/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/system-administration/index.html</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

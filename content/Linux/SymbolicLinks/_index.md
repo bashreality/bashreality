@@ -1,7 +1,7 @@
 
 +++
 author = "Albert Milewski"
-title = "Understanding Symbolic Links in Linux"
+title = "Symbolic Links"
 date = "2024-05-16"
 description = "A comprehensive guide to symbolic links in Linux, their usage, options, examples, and best practices."
 tags = [
@@ -16,8 +16,6 @@ categories = [
 series = ["Linux Guides"]
 aliases = ["linux-symlinks"]
 +++
-
-Understanding Symbolic Links in Linux
 
 Symbolic links, or symlinks, are a powerful feature in Linux that allow you to create a reference to another file or directory. This guide will explore what symlinks are, their use cases, command options, practical examples, tips, and common pitfalls to avoid. Click "Read More" to dive into the details of using symbolic links effectively in your Linux environment.
 

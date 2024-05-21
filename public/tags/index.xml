@@ -2,10 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags :: Bash Reality</title>
-    <link>http://localhost:43411/tags/index.html</link>
+    <link>http://localhost:1313/tags/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:43411/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag :: Aliases</title>
+      <link>http://localhost:1313/tags/aliases/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/aliases/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Linux</title>
+      <link>http://localhost:1313/tags/linux/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/linux/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Shortcut</title>
+      <link>http://localhost:1313/tags/shortcut/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/shortcut/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Access Control Lists</title>
+      <link>http://localhost:1313/tags/access-control-lists/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/access-control-lists/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: ACL</title>
+      <link>http://localhost:1313/tags/acl/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/acl/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Symbolic Links</title>
+      <link>http://localhost:1313/tags/symbolic-links/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/symbolic-links/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Symlinks</title>
+      <link>http://localhost:1313/tags/symlinks/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/symlinks/index.html</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

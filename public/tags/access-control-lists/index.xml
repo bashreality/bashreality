@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Access Control Lists :: Tag :: Bash Reality</title>
+    <link>http://localhost:1313/tags/access-control-lists/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/access-control-lists/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACL</title>
+      <link>http://localhost:1313/linux/acl/index.html</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/linux/acl/index.html</guid>
+      <description>A comprehensive guide to Access Control Lists (ACLs) in Linux, their usage, options, examples, and best practices.</description>
+    </item>
+  </channel>
+</rss>

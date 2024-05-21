@@ -1,29 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:43411/linux/index.html</loc>
-    <lastmod>2024-05-10T00:59:59+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:43411/basics/first-content/index.html</loc>
+    <loc>http://localhost:1313/basics/index.html</loc>
     <lastmod>2024-05-10T01:02:06+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:43411/basics/second-content/index.html</loc>
+    <loc>http://localhost:1313/linux/index.html</loc>
+    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/access-control-lists/index.html</loc>
+    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/acl/index.html</loc>
+    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/linux/acl/index.html</loc>
+    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/index.html</loc>
+    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/linux/index.html</loc>
+    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/linux/index.html</loc>
+    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/symbolic-links/index.html</loc>
+    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/symlinks/index.html</loc>
+    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/system-administration/index.html</loc>
+    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/index.html</loc>
+    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/linux/symboliclinks/index.html</loc>
+    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/basics/first-content/index.html</loc>
     <lastmod>2024-05-10T01:02:06+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:43411/basics/third-content/index.html</loc>
+    <loc>http://localhost:1313/basics/second-content/index.html</loc>
     <lastmod>2024-05-10T01:02:06+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:43411/linux/symboliclinks/index.html</loc>
-    <lastmod>2024-05-10T00:59:59+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:43411/categories/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:43411/tags/index.html</loc>
+    <loc>http://localhost:1313/basics/third-content/index.html</loc>
+    <lastmod>2024-05-10T01:02:06+02:00</lastmod>
   </url>
 </urlset>

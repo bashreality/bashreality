@@ -1,5 +1,21 @@
++++
+author = "Albert Milewski"
+title = "Aliases"
+date = "2024-05-20"
+description = "A comprehensive guide to Access Control Lists (ACLs) in Linux, their usage, options, examples, and best practices."
+tags = [
+    "linux",
+    "aliases",
+    "shortcut",
+]
+categories = [
+    "system administration",
+    "linux",
+]
+series = ["Linux Guides"]
+aliases = ["linux-aliases"]
++++
 
-# Shortening Commands with Aliases
 
 ## Introduction
 A variable is a name that stands in for a value. Similarly, the shell has names that stand in for commands, known as aliases. Aliases allow you to create shortcuts for long or frequently used commands, making your work more efficient.
